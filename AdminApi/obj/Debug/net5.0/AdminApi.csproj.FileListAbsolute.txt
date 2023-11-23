@@ -1,0 +1,877 @@
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.json
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.exe
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.xml
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\FastMember.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Nancy.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\QRCoder.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.xml
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+E:\Pravat Project\Yatris\AdminConsole\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.json
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.exe
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.xml
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\FastMember.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Nancy.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\QRCoder.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.xml
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+E:\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.exe
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.json
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.xml
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\FastMember.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Nancy.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\QRCoder.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.xml
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+E:\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\appsettings.json
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.exe
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\AdminApi.xml
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\FastMember.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Nancy.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\QRCoder.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.xml
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+H:\Appman\New folder\Pravat Project\Yatri_WebsiteAdmin\AdminConsole\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.json
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.exe
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.xml
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\FastMember.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Nancy.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\QRCoder.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\Appman\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.dll
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.xml
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+H:\Appman\EOrderBook\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.exe
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.json
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\FastMember.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Nancy.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\QRCoder.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.dll
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.xml
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+D:\project\AppMan\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.xml
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+D:\project\AppMan\EOrderBook\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.exe
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.json
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.xml
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\FastMember.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Nancy.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\QRCoder.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Pravat Project\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.dll
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.xml
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+E:\Pravat Project\EOrderBook\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\appsettings.json
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.exe
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\AdminApi.xml
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\FastMember.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Nancy.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\QRCoder.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New Proj\EOrderBook\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.dll
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.xml
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+D:\New Proj\EOrderBook\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Invoice\AdminApi\bin\Debug\net5.0\appsettings.json
+D:\Invoice\AdminApi\bin\Debug\net5.0\AdminApi.exe
+D:\Invoice\AdminApi\bin\Debug\net5.0\AdminApi.deps.json
+D:\Invoice\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.json
+D:\Invoice\AdminApi\bin\Debug\net5.0\AdminApi.runtimeconfig.dev.json
+D:\Invoice\AdminApi\bin\Debug\net5.0\AdminApi.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\AdminApi.pdb
+D:\Invoice\AdminApi\bin\Debug\net5.0\AdminApi.xml
+D:\Invoice\AdminApi\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\FastMember.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\MySqlConnector.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Nancy.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Npgsql.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\QRCoder.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Invoice\AdminApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.csproj.AssemblyReference.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfoInputs.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.AssemblyInfo.cs
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CoreCompileInputs.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\scopedcss\bundle\AdminApi.styles.css
+D:\Invoice\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Manifest.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\staticwebassets\AdminApi.StaticWebAssets.Pack.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.AdminApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Invoice\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminApi.props
+D:\Invoice\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminApi.props
+D:\Invoice\AdminApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminApi.props
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.RazorTargetAssemblyInfo.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.csproj.CopyComplete
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.dll
+D:\Invoice\AdminApi\obj\Debug\net5.0\refint\AdminApi.dll
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.xml
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.pdb
+D:\Invoice\AdminApi\obj\Debug\net5.0\AdminApi.genruntimeconfig.cache
+D:\Invoice\AdminApi\obj\Debug\net5.0\ref\AdminApi.dll

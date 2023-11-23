@@ -1,0 +1,416 @@
+﻿@using Microsoft.Extensions.Configuration;
+@using Microsoft.AspNetCore.Http
+@inject IConfiguration Configuration;
+@{
+    ViewBag.Title = "Invoice";
+    string apiUrl = Configuration.GetValue<string>("WebAPIBaseUrl");
+    Layout = null;
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    @@page {
+        size: A4;
+        margin: 0;
+    }
+
+    .invoice {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .invoice-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .invoice-logo {
+        max-width: 100px;
+    }
+
+    .invoice-number {
+        text-align: right;
+    }
+
+    .invoice-details {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+
+    .invoice-address {
+        width: 45%;
+    }
+
+    .invoice-date {
+        width: 45%;
+        text-align: right;
+    }
+
+    .invoice-info {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        /* Adjust margin to create space between sections */
+    }
+
+    .invoice-qr-code {
+        max-width: 40%;
+        margin-left: auto;
+        display: block;
+    }
+
+        .invoice-qr-code img {
+            width: 63%;
+        }
+    .invoice-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .invoice-table th,
+        .invoice-table td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+
+    .invoice-total {
+        text-align: right;
+        margin-top: 20px;
+    }
+
+    /* gedeu */
+    .invoice-date table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .invoice-date table td {
+            padding: 5px;
+            border: none;
+        }
+
+            .invoice-date table td:first-child {
+                font-weight: bold;
+                width: 30%;
+                /* Adjust the width of the first column as needed */
+            }
+
+            .invoice-date table td:nth-child(2) {
+                width: 5%;
+                /* Adjust the width of the separator column as needed */
+            }
+
+            .invoice-date table td:last-child {
+                width: 65%;
+                /* Adjust the width of the data column as needed */
+            }
+
+    .invoice-total table {
+        width: 100%;
+        /* Adjust the table width as needed */
+        border-collapse: collapse;
+        margin-right: 20px;
+        /* Add some margin to create space between the table and other content */
+    }
+
+    /* Add this CSS at the end of your existing styles */
+    /* Updated CSS */
+    .invoice-footer {
+        margin-top: 20px;
+        /* display: flex; */
+        justify-content: space-between;
+    }
+
+        .invoice-footer .note,
+        .invoice-footer .terms {
+            width: 48%;
+            /* Adjust the width as needed to create space between sections */
+            padding: 10px;
+        }
+
+        .invoice-footer h3 {
+            margin-top: 0;
+        }
+</style>
+
+    <div class="invoice">
+        <div class="invoice-header">
+            <img class="invoice-logo" id="companylogo" src="images.jpg" alt="Your Logo">
+            <h1 class="invoice-number">Invoice<br /><lebel style="font-size:20px" id="invoice">#12345</lebel></h1>
+           
+        </div>
+        <div class="invoice-details">
+            <div class="invoice-address">
+                <h4>Bill From:</h4><span id="bill"></span>
+                @* <p>Customer Name</p>
+                <p>Address</p>
+                <p>City, State, Zip</p> *@
+            </div>
+            <div class="invoice-date">
+                <table>
+                    <tr>
+                        <td>Date</td>
+                        <td>:</td>
+                        <td><span id="date">September 26, 2023</span></td>
+                    </tr>
+                    <tr>
+                        <td>Due Date</td>
+                        <td>:</td>
+                        <td><span id="duedate">October 10, 2023</span></td>
+                    </tr>
+                    <tr>
+                        <td>PO Number</td>
+                        <td>:</td>
+                        <td><span id="po">PO12345</span></td>
+                    </tr>
+                    <tr>
+                        <td>Payment Terms</td>
+                        <td>:</td>
+                        <td><span id="terms">Net 30 Days</span></td>
+                    </tr>
+                    <tr>
+                        <td>Balance Due</td>
+                        <td>:</td>
+                        <td><span id="balance">Net 30 Days</span></td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+        <div class="invoice-details">
+            <div class="invoice-address">
+                <h4>Bill To:</h4><span id="billto"></span>
+                @* <p>Customer Name</p>
+                <p>Address</p>
+                <p>City, State, Zip</p> *@
+            </div>
+            <div class="invoice-info">
+                <div class="invoice-qr-code">
+                    <img src="https://chart.googleapis.com/chart?cht=qr&chl=Hello+World&chs=160x160&chld=L|0" id="qr-code">
+                </div>
+            </div>
+        </div>
+        <table class="invoice-table">
+            <thead>
+                <tr>
+                    <th>ITEMS DETAILS</th>
+                    <th>QUANTITY</th>
+                    <th>RATE</th>
+                    <th>TOTAL AMOUNT</th>
+                </tr>
+            </thead>
+            <tbody id="secondtable">
+                <tr>
+                    <td>Item 1</td>
+                    <td>2</td>
+                    <td>$10.00</td>
+                    <td>$20.00</td>
+                </tr>
+                <tr>
+                    <td>Item 2</td>
+                    <td>3</td>
+                    <td>$15.00</td>
+                    <td>$45.00</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="invoice-total">
+            <table>
+                <tr>
+                    <td>Subtotal</td>
+                    <td>:</td>
+                    <td>₹<span id="subtot">$65.00</span></td>
+                </tr>
+                <tr>
+                    <td>Discount</td>
+                    <td>:</td>
+                    <td><span id="discount">$0.00</span>%</td>
+                </tr>
+                <tr>
+                    <td>VAT</td>
+                    <td>:</td>
+                    <td><span id="vat">$13.00</span>%</td>
+                </tr>
+                <tr>
+                    <td>Grand Total</td>
+                    <td>:</td>
+                    <td>₹<span id="gt">$78.00</span></td>
+                </tr>
+                <tr>
+                    <td>Amount Paid</td>
+                    <td>:</td>
+                    <td>₹<span id="ap">$0.00</span></td>
+                </tr>
+                <tr>
+                    <td><strong>Balance Due</strong></td>
+                    <td>:</td>
+                    <td><strong>₹<span id="bd">$78.00</span></strong></td>
+                </tr>
+            </table>
+
+        </div>
+        <div class="invoice-footer">
+            <div class="note">
+                <h6>Note:</h6>
+                <p><span id="notes">Add your note here.</span></p>
+            </div>
+            <div class="terms">
+                <h6>Terms:</h6>
+                <p><span id="tm">Add your terms and conditions here.</span></p>
+            </div>
+        </div>
+        
+    </div>
+
+<footer class="text-center mt-4">
+    <div class="btn-group btn-group-sm d-print-none" style="background-color:blue;"> <a href="javascript:window.print()" class="btn btn-light border text-black-50 shadow-none"><i class="fa fa-print"></i> Print</a></div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        var invoiceId = @ViewBag.invoiceId;
+
+        loadInvoice()
+        function loadInvoice() {
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/Invoice/GetInvoiceSingleList/" + invoiceId,
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (data) {
+                    //console.log(data);
+                    if (data) {
+                    $('#companylogo').attr('src', data.data[0].invoiceLogo);
+                        $('#invoice').text(data.data[0].invoiceNo);
+                        $('#bill').text(data.data[0].billFrom);
+                        $('#billto').text(data.data[0].billTo);
+                        $('#terms').text(data.data[0].paymentTerm);
+                        $('#po').text(data.data[0].poNumber);
+                        $('#balance').text(data.data[0].balanceDue);
+                        $('#subtot').text(data.data[0].subTotal);
+                       // $('#discount').text(data.data[0].discounts);
+                    if (data && data.data && data.data[0] && data.data[0].discounts) {
+                        $('#discount').text(data.data[0].discounts);
+                    } else {
+                        $('#discount').text('0');
+                    }
+                        //$('#vat').text(data.data[0].vat);
+                    if (data && data.data && data.data[0] && data.data[0].vat) {
+                        $('#vat').text(data.data[0].vat);
+                    } else {
+                        $('#vat').text('0');
+                    }
+                        $('#gt').text(data.data[0].grandTotal);
+                        //$('#ap').text(data.data[0].amountPaid);
+                    if (data && data.data && data.data[0] && data.data[0].amountPaid) {
+                        $('#ap').text(data.data[0].amountPaid);
+                    } else {
+                        $('#ap').text('0');
+                    }
+                        $('#bd').text(data.data[0].balanceDue);
+                        $('#notes').text(data.data[0].note);
+                        $('#tm').text(data.data[0].terms);
+                        //date
+                        var dateString = data.data[0].invoiceDate;
+                        var invoiceDate = new Date(dateString);
+                        var formattedDate = ("0" + invoiceDate.getDate()).slice(-2) + "/" +
+                            ("0" + (invoiceDate.getMonth() + 1)).slice(-2) + "/" +
+                            invoiceDate.getFullYear();
+
+                        $('#date').text(formattedDate);
+
+                        //duedate
+                        var dateString = data.data[0].dueDate;
+                        var dueDate = new Date(dateString);
+                        var formattedDate = ("0" + dueDate.getDate()).slice(-2) + "/" +
+                            ("0" + (dueDate.getMonth() + 1)).slice(-2) + "/" +
+                            dueDate.getFullYear();
+                        $('#duedate').text(formattedDate);
+
+                        var invoiceId = data.data[0].invoiceId;
+                        fetchsubInvoiceDetails(invoiceId);
+                        generateQRCode(data);
+                    }
+                    else {
+                        sweetAlert("Validation Alert!", "Something unexpected!", "warning");
+                    }
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+        function htmlEncode(value) {
+            return encodeURIComponent(value);
+        }
+        
+        function generateQRCode() {
+        var invoiceId = @ViewBag.invoiceId; // Ensure this variable is correctly defined and contains     the ID
+        var linkdata = 'https://demo4.appman.in/Invoice/Invoic?invoiceId=' + invoiceId;
+        
+            // Generate the QR code
+            const qrCodeURL = 'https://chart.googleapis.com/chart?cht=qr&chl=' + encodeURIComponent(linkdata) + '&chs=200x200&chld=L|0';
+        
+            // Update the QR code image source
+            $("#qr-code").attr("src", qrCodeURL);
+        }
+    generateQRCode();
+        function fetchsubInvoiceDetails(invoiceId) {
+
+            $.ajax({
+                type: "GET",
+                url: "@apiUrl/api/Invoice/GetSubInvoiceListbyinvoiceId/" + invoiceId,
+                contentType: "application/json; charset=utf-8",
+                headers: {
+                    "authorization": "Bearer @Context.Session.GetString("TokenTxt")"
+                },
+                dataType: "json",
+                success: function (data) {
+                    console.log(data);
+                    var x = "";
+                    for (var i = 0; i < data.data.length; i++) {
+
+                        x = x + '<tr><td>' + data.data[i].itemDetails + '</td><td>' + data.data[i].quantity + '</td><td>' + data.data[i].rate + '</td><td>' + data.data[i].totalAmount + '</td></tr>';
+                    }
+
+                    $('#secondtable').html(x);
+                },
+                error: function (data) {
+                    if (data.status == 401) {
+                        window.location.replace('/Message/TokenExpire');
+                    } else if (data.status == 403) {
+                        window.location.replace('/Message/Unauthorize');
+                    }
+                }
+            });
+        }
+
+
+    </script>
+
+   

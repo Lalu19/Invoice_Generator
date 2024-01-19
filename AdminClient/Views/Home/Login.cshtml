@@ -1,0 +1,160 @@
+﻿@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- ===============================================-->
+    <!--    Document Title-->
+    <!-- ===============================================-->
+    <title>Invoice</title>
+
+    <!-- ===============================================-->
+    <!--    Favicons-->
+    <!-- ===============================================-->
+    @* <link rel="apple-touch-icon" sizes="180x180" href="~/EOrderBook/assets/img/icons/logo-colorNewEbook.png"> *@
+    @* <link rel="icon" type="image/png" sizes="32x32" href="~/EOrderBook/assets/img/icons/logo-colorNewEbook.png"> *@
+    @* <link rel="icon" type="image/png" sizes="16x16" href="~/EOrderBook/assets/img/icons/logo-colorNewEbook.png"> *@
+    @* <link rel="shortcut icon" type="image/x-icon" href="~/EOrderBook/assets/img/icons/logo-colorNewEbook.png"> *@
+    @* <link rel="manifest" href="~/EOrderBook/assets/img/favicons/manifest.json"> *@
+    @* <meta name="msapplication-TileImage" content="~/EOrderBook/assets/img/icons/logo-colorNewEbook.png"> *@
+    <meta name="theme-color" content="#ffffff">
+    <script src="~/EOrderBook/assets//js/vendors/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/simplebar/simplebar.min.js"></script>
+    <script src="~/EOrderBook/assets/js/config.js"></script>
+
+    <!-- ===============================================-->
+    <!--    Stylesheets-->
+    <!-- ===============================================-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="../../../../../css2?family=Nunito+Sans:wght@300;400;600;700;800;900&amp;display=swap" rel="stylesheet">
+    <link href="~/EOrderBook/assets/js/vendors/simplebar/simplebar.min.js" rel="stylesheet">
+    <link rel="stylesheet" href="~/EOrderBook/assets/js/vendors/release/v4.0.0/css/line.css">
+    <link href="~/EOrderBook/assets/css/theme-rtl.min.css" type="text/css" rel="stylesheet" id="style-rtl">
+    <link href="~/EOrderBook/assets/css/theme.min.css" type="text/css" rel="stylesheet" id="style-default">
+    <link href="~/EOrderBook/assets/css/user-rtl.min.css" type="text/css" rel="stylesheet" id="user-style-rtl">
+    <link href="~/EOrderBook/assets/css/user.min.css" type="text/css" rel="stylesheet" id="user-style-default">
+
+    <style>
+        .text-700 {
+            --phoenix-text-opacity: 1;
+            color: rgba(var(--phoenix-700-rgb), var(--phoenix-text-opacity)) !important;
+            margin-bottom: -41px;
+        }
+
+        img.mainlogo {
+            width: 180%;
+            margin-left: -100px;
+           
+        }
+
+        .btn-primary, .tox .tox-dialog__footer .tox-button:last-child, .tox .tox-button {
+            --phoenix-btn-bg: #0718c4;
+            margin-top: -41px;
+        }
+
+        .form-check-input:checked {
+            background-color: #0718c4;
+        }
+
+        
+    </style>
+
+</head>
+
+<body>
+    <!-- ===============================================-->
+    <!--    Main Content-->
+    <!-- ===============================================-->
+    <main class="main" id="top">
+        <div class="container-fluid px-0" data-layout="container">
+            <div class="container-fluid">
+                <div class="bg-holder bg-auth-card-overlay" style="background-image:url(../../../assets/img/bg/37.png);"></div>
+                <!--/.bg-holder-->
+                <div class="row flex-center position-relative min-vh-100 g-0 py-5">
+                    <div class="col-11 col-sm-6 col-xl-4">
+                        <div class="card border border-300 auth-card">
+                            <div class="card-body pe-md-0">
+                                <div class="row align-items-center gx-0 gy-7">
+                                    <form class="login100-form validate-form" action="/" method="POST">
+                                        <div class="col mx-auto">
+                                            <div class="auth-form-box">
+                                                <div class="text-center mb-1">
+                                                    <a class="d-flex flex-center text-decoration-none mb-2" @*href="../../../index.html"*@>
+                                                        <div class="d-flex align-items-center fw-bolder fs-3 d-inline-block"> Sign In@* <img class="mainlogo" src="~/EOrderBook/assets/img/icons/EBooklogodesign-removebg-preview.png" alt="phoenix" width="58"> *@</div>
+                                                    </a>
+                                                </div>
+
+                                                <div class="mb-3 text-start">
+                                                    <label class="form-label" for="email">User Name</label>
+                                                    <div class="form-icon-container"><input class="form-control form-icon-input" name="username" type="text" placeholder="User Name"><span class="fas fa-user text-900 fs--1 form-icon"></span></div>
+                                                </div>
+                                                <div class="mb-3 text-start">
+                                                    <label class="form-label" for="password">Password</label>
+                                                    <div class="form-icon-container"><input class="form-control form-icon-input" name="password" type="password" id="typepass" placeholder="Password"><span class="fas fa-key text-900 fs--1 form-icon"></span></div>
+                                                </div>
+                                                <div class="row flex-between-center mb-7">
+                                                    <div class="col-auto">
+                                                        <div class="form-check mb-0"><input class="form-check-input" id="basic-checkbox" type="checkbox" onclick="Toggle()"><label class="form-check-label mb-0" for="basic-checkbox">Show passward</label></div>
+                                                    </div>
+                                                </div><button type="submit" class="btn btn-primary w-100 mb-3">Sign In</button>
+
+                                              @*  <div class=" flex-c-m text-center mt-3">
+                                                    <div class="login-logo">
+                                                        <div class="alert alert-danger" role="alert" style="display: table-row-group;">
+                                                            @ViewBag.ErrorMessage
+                                                        </div>
+                                                    </div>
+                                                </div>*@
+                                                <span class="backto-link font-default content-color text-decoration-none">Don't have an account? <a class="text-decoration-underline theme-color" href="/Signup/SignUp"> Sign Up </a> </span>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main><!-- ===============================================-->
+    <!--    JavaScripts-->
+    <script src="~/EOrderBook/assets/js/vendors/popper/popper.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/popper/popper.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/anchorjs/anchor.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/is/is.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/fontawesome/all.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/lodash/lodash.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/v3/polyfill.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/list.js/list.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/feather-icons/feather.min.js"></script>
+    <script src="~/EOrderBook/assets/js/vendors/dayjs/dayjs.min.js"></script>
+    <script src="~/EOrderBook/assets/js/phoenix.js"></script>
+
+    <script src="~/js/custom.js"></script>
+    <script>
+        function Toggle() {
+            var temp = document.getElementById("typepass");
+            if (temp.type === "password") {
+                temp.type = "text";
+            }
+            else {
+                temp.type = "password";
+            }
+        }
+    </script>
+
+</body>
+
+</html>
+
+
